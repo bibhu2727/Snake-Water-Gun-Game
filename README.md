@@ -84,7 +84,8 @@ The outcome of the game is determined based on these rules, and the result is di
 
 Here’s what the game looks like:
 
-![Game Screenshot](screenshoot.png)
+![Game Screenshot](https://raw.githubusercontent.com/bibhu2727/Snake-Water-Gun-Game/main/screenshot.png)
+
 
 ## License
 
