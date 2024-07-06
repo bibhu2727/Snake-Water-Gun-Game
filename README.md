@@ -84,7 +84,7 @@ The outcome of the game is determined based on these rules, and the result is di
 
 Here’s what the game looks like:
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](screenshoot.png)
 
 ## License
 
