@@ -1,6 +1,6 @@
 # Snake Water Gun Game
 
-Welcome to the **Snake Water Gun Game**! 🎮 This is a simple yet fun Python game where you can compete against the computer by choosing between "Snake", "Water", or "Gun". Built using `tkinter` for the graphical user interface and `pygame` for sound effects, this game is a great example of a classic game with a modern touch.
+Welcome to the **Snake Water Gun Game**! 🎮 This is a simple yet fun Python game where you can compete against the computer by choosing between "Snake", "Water", or "Gun". Built using `tkinter` for the graphical user interface and `pygame` for sound effects, this game is a great example of a classic game with a modern touch..
 
 ## Table of Contents
 
